@@ -16,6 +16,8 @@ local.properties
 .settings/
 .loadpath
 .vscode
+.vs
+Win32/
 
 # External tool builders
 .externalToolBuilders/
